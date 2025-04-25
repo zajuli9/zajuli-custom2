@@ -1,0 +1,4 @@
+[submodule "zajuli9/zajuli-custom2"]
+	path = zajuli9/zajuli-custom2
+	url = git@github.com:zajuli9/zajuli-custom2.git
+	branch = custom
